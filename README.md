@@ -16,10 +16,9 @@ O desafio envolveu o **desenvolvimento colaborativo em equipe**, onde trabalhamo
 🚀 [ Venilson Neves ]   
 
 ### 🚀 Tecnologias Utilizadas
-- **Linguagem**: [Java/Python/Outra (especifique)]
-- **Bibliotecas**: [Se aplicável, liste as bibliotecas usadas]
+- **Linguagem**: [Java]
 - **Paradigma**: Programação Orientada a Objetos (POO)
-- **Ferramentas**: Git, GitHub, IDEs como VS Code/IntelliJ
+- **Ferramentas**: Git, GitHub,VS Code/IntelliJ
 
 ### 🏆 Desafio do Hackathon
 O desafio do Hackathon era desenvolver uma **versão funcional e interativa do Jogo da Velha**, implementando boas práticas de programação, modularidade e usabilidade.
