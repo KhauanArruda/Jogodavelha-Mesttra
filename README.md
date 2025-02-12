@@ -12,7 +12,8 @@ O desafio envolveu o **desenvolvimento colaborativo em equipe**, onde trabalhamo
 🚀 [ Maykon ]  
 🚀 [ Jessica Diniz]  
 🚀 [ Inês Carolina ]
-🚀 [Venilson Neves]   
+🚀 [Venilson Neves]
+
 ### 🚀 Tecnologias Utilizadas
 - **Linguagem**: [Java/Python/Outra (especifique)]
 - **Bibliotecas**: [Se aplicável, liste as bibliotecas usadas]
