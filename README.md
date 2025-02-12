@@ -13,6 +13,7 @@ O desafio envolveu o **desenvolvimento colaborativo em equipe**, onde trabalhamo
 🚀 [ Maykon ]  
 🚀 [ Jessica Diniz ]  
 🚀 [ Inês Carolina ]
+
 🚀 [ Venilson Neves ]
 
 ### 🚀 Tecnologias Utilizadas
