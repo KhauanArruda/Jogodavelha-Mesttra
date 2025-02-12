@@ -10,11 +10,10 @@ O desafio envolveu o **desenvolvimento colaborativo em equipe**, onde trabalhamo
 🚀 [ Khauan Luiz ]  
 🚀 [ Advalter ]  
 🚀 [ Rodrigo ]  
-🚀 [ Maykon ]  
+🚀 [ Maykon ]
+🚀 [ Venilson Neves ]
 🚀 [ Jessica Diniz ]  
 🚀 [ Inês Carolina ]
-
-🚀 [ Venilson Neves ]
 
 ### 🚀 Tecnologias Utilizadas
 - **Linguagem**: [Java/Python/Outra (especifique)]
