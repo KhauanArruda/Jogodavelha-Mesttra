@@ -6,13 +6,14 @@ O **Jogo da Velha - Mesttra** foi desenvolvido durante um **Hackathon da Mesttra
 O desafio envolveu o **desenvolvimento colaborativo em equipe**, onde trabalhamos juntos para criar um jogo funcional, aplicando conceitos de **desenvolvimento de software**, **lógica de programação** e **trabalho em equipe**.
 
 ### 👥 Equipe de Desenvolvimento
-🚀 [Khauan Luiz]  
+
+🚀 [ Khauan Luiz ]  
 🚀 [ Advalter ]  
 🚀 [ Rodrigo ]  
 🚀 [ Maykon ]  
-🚀 [ Jessica Diniz]  
+🚀 [ Jessica Diniz ]  
 🚀 [ Inês Carolina ]
-🚀 [Venilson Neves]
+🚀 [ Venilson Neves ]
 
 ### 🚀 Tecnologias Utilizadas
 - **Linguagem**: [Java/Python/Outra (especifique)]
